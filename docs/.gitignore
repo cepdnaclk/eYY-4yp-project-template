@@ -1,0 +1,4 @@
+# Template specific files
+_site/
+.jekyll-metadata
+Gemfile.lock
