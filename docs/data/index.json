@@ -20,7 +20,7 @@
   ],
   "supervisors": [
     {
-      "name": "Dr. Supervisor 1",
+      "name": "Supervisor 1",
       "email": "email@eng.pdn.ac.lk"
     },
     {
