@@ -99,6 +99,14 @@ h2{
     margin-bottom: 0;
 }
 
+table, th, tr, td{
+    border: 1px solid gray;
+    padding: 3px 7px;
+}
+
+th{
+    background: lightgray
+}
 
 .project-btn{
     min-width: 150px!important;
