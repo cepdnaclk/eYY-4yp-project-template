@@ -14,41 +14,71 @@ These projects will be automatically added into [https://projects.ce.pdn.ac.lk](
 
 ```
 {
-  "visibility": false,
-  "title": "This is the title of the project",
-  "team": [
-    {
-      "name": "Team Member Name 1",
-      "email": "email@eng.pdn.ac.lk",
-      "eNumber": "E/yy/xxx"
-    },
-    {
-      "name": "Team Member Name 2",
-      "email": "email@eng.pdn.ac.lk",
-      "eNumber": "E/yy/xxx"
-    },
-    {
-      "name": "Team Member Name 3",
-      "email": "email@eng.pdn.ac.lk",
-      "eNumber": "E/yy/xxx"
-    }
-  ],
-  "supervisors": [
-    {
-      "name": "Dr. Supervisor 1",
-      "email": "email@eng.pdn.ac.lk"
-    },
-    {
-      "name": "Supervisor 2",
-      "email": "email@eng.pdn.ac.lk"
-    }
-  ],
-  "description": "This is a breif intruduction of the project. You need to use plain text without any specific characters here",
-  "tags": ["Web", "Embedded Systems"]
+   "title":"This is the title of the project",
+   "team":[
+      {
+         "name":"Team Member Name 1",
+         "email":"email@eng.pdn.ac.lk",
+         "eNumber":"E/yy/xxx",
+         "github_profile":"#",
+         "linkedin_profile":"#",
+         "researchgate_profile":"#"
+      },
+      {
+         "name":"Team Member Name 2",
+         "email":"email@eng.pdn.ac.lk",
+         "eNumber":"E/yy/xxx",
+         "github_profile":"#",
+         "linkedin_profile":"#",
+         "researchgate_profile":"#"
+      },
+      {
+         "name":"Team Member Name 3",
+         "email":"email@eng.pdn.ac.lk",
+         "eNumber":"E/yy/xxx",
+         "github_profile":"#",
+         "linkedin_profile":"#",
+         "researchgate_profile":"#"
+      }
+   ],
+   "supervisors":[
+      {
+         "name":"Dr. Supervisor 1",
+         "email":"email@eng.pdn.ac.lk",
+         "linkedin_profile":"",
+         "researchgate_profile":""
+      },
+      {
+         "name":"Supervisor 2",
+         "email":"email@eng.pdn.ac.lk",
+         "linkedin_profile":"",
+         "researchgate_profile":""
+      }
+   ],
+   "description":"This is a brief introduction of the project. You need to use plain text without any specific characters here",
+   "publications":[
+      {
+         "title":"Paper Title",
+         "journal":"Journal or Conference Name",
+         "description":"Sample Description",
+         "url":"#"
+      }
+   ],
+   "media":[
+      {
+         "type":"youtube",
+         "url":"#"
+      }
+   ],
+   "tags":[
+      "Final Year Projects"
+   ]
 }
 ```
 
-Once you filled this _index.json_ file, please verify the syntax is correct. (You can use [this](https://jsonlint.com/) tool). Then change the _'visibility'_ property of the above json to _true_.
+*linkedin_profile*,, *researchgate_profile*, *publications*, *media* parameters are optional and keep the default values, unless fill them.
+
+Allowed media types: youtube
 
 ### Page Theme
 
