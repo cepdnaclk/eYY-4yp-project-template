@@ -48,8 +48,8 @@ title:
 
 ## Links
 
-- [Project Repository](https://github.com/cepdnaclk/{{ page.repository-name }}){:target="_blank"}
-- [Project Page](https://cepdnaclk.github.io/{{ page.repository-name}}){:target="_blank"}
+- [Project Repository](https://github.com/cepdnaclk/repository-name){:target="_blank"}
+- [Project Page](https://cepdnaclk.github.io/repository-name){:target="_blank"}
 - [Department of Computer Engineering](http://www.ce.pdn.ac.lk/){:target="_blank"}
 - [University of Peradeniya](https://eng.pdn.ac.lk/){:target="_blank"}
 
