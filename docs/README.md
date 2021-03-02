@@ -46,6 +46,14 @@ title:
 
 ## Conclusion
 
+## Publications
+1. [Semester 7 report](./)
+2. [Semester 7 slides](./)
+3. [Semester 8 report](./)
+4. [Semester 8 slides](./)
+5. [Author 1, Author 2 and Author 2 "Research paper title" (2021).](./)
+
+
 ## Links
 
 [//]: # ( NOTE: EDIT THIS LINKS WITH YOUR REPO DETAILS )
