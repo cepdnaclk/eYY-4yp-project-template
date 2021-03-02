@@ -48,7 +48,7 @@ title:
 
 ## Links
 
-( NOTE: EDIT THIS LINKS WITH YOUR REPO DETAILS )
+[//]: # ( NOTE: EDIT THIS LINKS WITH YOUR REPO DETAILS )
 
 - [Project Repository](https://github.com/cepdnaclk/repository-name)
 - [Project Page](https://cepdnaclk.github.io/repository-name)
