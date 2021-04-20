@@ -1,6 +1,6 @@
 # Template specific files
 *.sh
-_site/
+_site/*
 .jekyll-metadata
 Gemfile.lock
 Gemfile
