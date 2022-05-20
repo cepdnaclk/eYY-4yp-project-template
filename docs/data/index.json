@@ -29,9 +29,9 @@
     "publications": [
         {
             "title": "Paper Title",
-            "journal": "Journal or Conference Name",
-            "description": "Sample Description",
-            "url": "#"
+            "authors": "Person1, Person2, ...",
+            "venue": "Journal or Conference Name",
+            "doi": "#",
         }
     ],
     "media": [
