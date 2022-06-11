@@ -26,14 +26,6 @@
             "email": "email@eng.pdn.ac.lk"
         }
     ],
-    "publications": [
-        {
-            "title": "Paper Title",
-            "authors": "Person1, Person2, ...",
-            "venue": "Journal or Conference Name",
-            "doi": "#",
-        }
-    ],
     "media": [
         {
             "type": "youtube",
