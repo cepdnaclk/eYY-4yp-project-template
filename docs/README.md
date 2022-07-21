@@ -35,9 +35,10 @@ title:
 
 ---
 
+DELETE THIS SAMPLE before publishing to GitHub Pages !!!
 This is a sample image, to show how to add images to your page. To learn more options, please refer [this](https://projects.ce.pdn.ac.lk/docs/faq/how-to-add-an-image/)
-
 ![Sample Image](./images/sample.png)
+
 
 ## Abstract
 
@@ -52,11 +53,13 @@ This is a sample image, to show how to add images to your page. To learn more op
 ## Conclusion
 
 ## Publications
-1. [Semester 7 report](./)
-2. [Semester 7 slides](./)
-3. [Semester 8 report](./)
-4. [Semester 8 slides](./)
-5. Author 1, Author 2 and Author 3 "Research paper title" (2021). [PDF](./).
+[//]: # "Note: Uncomment each once you uploaded the files to the repository"
+
+<!-- 1. [Semester 7 report](./) -->
+<!-- 2. [Semester 7 slides](./) -->
+<!-- 3. [Semester 8 report](./) -->
+<!-- 4. [Semester 8 slides](./) -->
+<!-- 5. Author 1, Author 2 and Author 3 "Research paper title" (2021). [PDF](./). -->
 
 
 ## Links
